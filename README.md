@@ -23,7 +23,7 @@ Java와 MySQL을 활용한 성적 관리 프로그램 DB제작
 
 ![1 구조](https://user-images.githubusercontent.com/115531865/195760458-d7b44a9c-a19a-4ab0-866e-eff36b548180.png)
 
-![2 입력](https://user-images.githubusercontent.com/115531865/195760444-58e6e9a1-6d56-454f-b718-2a7faef10717.png)
+![2 입력](https://user-images.githubusercontent.com/115531865/195761064-fafa47ae-c615-4825-81f3-6c05ce00a03f.png)
 
 ![3  수정](https://user-images.githubusercontent.com/115531865/195760445-edc38b3a-9b82-42a5-a910-e37f81f8c434.png)
 
