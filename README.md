@@ -13,7 +13,7 @@ Java와 MySQL을 활용한 성적 관리 프로그램 DB제작
 | Language | Java 17.0.4 |
 | Editor | Eclipse 2022-06 (4.24.0) |
 | DBMS | MySQL Workbench 8.0 |
-| Github | [https://github.com/DandyKang84/Student Performance Management Program] |
+| Github | [https://github.com/DandyKang84/Student-Performance-Management-Program] |
 
 ## 개발기간
 
